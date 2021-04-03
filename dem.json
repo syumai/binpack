@@ -1,0 +1,13 @@
+{
+  "modules": [
+    {
+      "protocol": "https",
+      "path": "deno.land/x/std",
+      "version": "0.92.0",
+      "files": [
+        "/encoding/base64.ts"
+      ]
+    }
+  ],
+  "aliases": {}
+}
